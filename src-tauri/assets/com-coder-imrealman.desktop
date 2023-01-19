@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Categories=Development
+Exec=com-coder-imrealman
+Icon=com-coder-imrealman
+Name=com-coder-imrealman
+Name[zh_CN]=Coder
+StartupNotify=true
+Terminal=false
+Type=Application
