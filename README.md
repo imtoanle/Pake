@@ -258,6 +258,13 @@ Pake's development can not be without these Hackers. They contributed a lot of c
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/imtoanle">
+            <img src="https://avatars.githubusercontent.com/u/4002252?v=4" width="90;" alt="imtoanle"/>
+            <br />
+            <sub><b>Toan Le</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/AielloChan">
             <img src="https://avatars.githubusercontent.com/u/7900765?v=4" width="90;" alt="AielloChan"/>
             <br />
@@ -276,13 +283,6 @@ Pake's development can not be without these Hackers. They contributed a lot of c
             <img src="https://avatars.githubusercontent.com/u/126550811?v=4" width="90;" alt="Pake-Actions"/>
             <br />
             <sub><b>Pake Actions</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/imtoanle">
-            <img src="https://avatars.githubusercontent.com/u/4002252?v=4" width="90;" alt="imtoanle"/>
-            <br />
-            <sub><b>Toan Le</b></sub>
         </a>
     </td>
     <td align="center">
