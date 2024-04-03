@@ -1,9 +1,9 @@
 {
   "apps": [
     {
-      "name": "restclient",
-      "title": "AitbaseRestc",
-      "name_zh": "AitbaseRestc",
+      "name": "aitbaserestc",
+      "title": "AitbaseRestC",
+      "name_zh": "AitbaseRestC",
       "url": "https://restc.aitbase.com/"
     }
   ]
