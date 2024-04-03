@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "name": "aitrestc",
+      "name": "aitrestclient",
       "title": "Ait Rest Client",
       "name_zh": "Ait Rest Client",
       "url": "https://restc.aitbase.com/"
