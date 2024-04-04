@@ -243,25 +243,25 @@ Pake's development can not be without these Hackers. They contributed a lot of c
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/imtoanle">
+            <img src="https://avatars.githubusercontent.com/u/4002252?v=4" width="90;" alt="imtoanle"/>
+            <br />
+            <sub><b>Toan Le</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/liby">
             <img src="https://avatars.githubusercontent.com/u/38807139?v=4" width="90;" alt="liby"/>
             <br />
             <sub><b>Bryan Lee</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/essesoul">
             <img src="https://avatars.githubusercontent.com/u/58624474?v=4" width="90;" alt="essesoul"/>
             <br />
             <sub><b>Essesoul</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/imtoanle">
-            <img src="https://avatars.githubusercontent.com/u/4002252?v=4" width="90;" alt="imtoanle"/>
-            <br />
-            <sub><b>Toan Le</b></sub>
         </a>
     </td>
     <td align="center">
